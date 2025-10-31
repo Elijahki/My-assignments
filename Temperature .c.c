@@ -1,6 +1,6 @@
 /*
-NAME:Valentine otieno Ogutu 
-REG NO:PA106/G/28813/25
+NAME:Elijah Kiprotich Ng'etich 
+REG NO:PA106/G/28708/25
 DESCRIPTION:A program to covert temp from fahrenheit to degrees 
 */
 
